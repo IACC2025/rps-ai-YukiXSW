@@ -77,6 +77,6 @@ Compruebo las veces que ha ganado y de que manera ha ganado el jugador.
 
 ### Tipo de IA:
 
-- [ ] **IA Especifica**: Entrenada para ganar a UNA persona concreta
-  - Nombre/identificador del oponente: _________________
+- [x] **IA Especifica**: Entrenada para ganar a UNA persona concreta
+  - Nombre/identificador del oponente: ___Javier___
 - [ ] **IA General**: Entrenada para ganar a cualquier oponente
