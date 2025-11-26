@@ -1,6 +1,6 @@
 # Documentacion de Recogida de Datos
 
-**Alumno:** ___________________
+**Alumno:** _______Lili_______
 
 ## Formato del CSV
 
@@ -31,7 +31,7 @@ Marca con [x] el metodo usado y describe brevemente:
 
 ### Metodo de recogida:
 
-- [ ] **Programa propio**: Cree un programa para jugar y guardar datos
+- [x] **Programa propio**: Cree un programa para jugar y guardar datos
 - [ ] **Manual**: Jugue partidas y apunte los resultados a mano
 - [ ] **Aplicacion/Web externa**: Use una app y exporte los datos
 - [ ] **Otro**: _________________
@@ -41,7 +41,8 @@ Marca con [x] el metodo usado y describe brevemente:
 ```
 (Explica aqui como recogiste los datos. Si usaste un programa,
 describe brevemente como funciona. Si fue manual, explica el proceso.)
-
+He creado un programa en la que te pregunta cuantas rondas quieres, y por cada ronda que pase, se guarda ronda por ronda 
+la jugada en el archivo jugadas.csv
 
 
 
@@ -55,14 +56,14 @@ Si capturaste datos extra ademas de los basicos, marcalos aqui:
 - [ ] `tiempo_reaccion_ms` - Tiempo que tardo el jugador en responder
 - [ ] `timestamp` - Fecha/hora de cada jugada
 - [ ] `sesion` - ID de sesion de juego
-- [ ] `resultado` - victoria/derrota/empate
+- [x] `resultado` - victoria/derrota/empate
 - [ ] Otro: _________________
 
 ### Descripcion de datos adicionales:
 
 ```
 (Si capturaste datos extra, explica aqui por que y como los usas)
-
+Compruebo las veces que ha ganado y de que manera ha ganado el jugador.
 
 ```
 
@@ -70,9 +71,9 @@ Si capturaste datos extra ademas de los basicos, marcalos aqui:
 
 ## Estadisticas del dataset
 
-- **Total de rondas:** _____
-- **Numero de sesiones/partidas:** _____
-- **Contra cuantas personas diferentes:** _____
+- **Total de rondas:** _476_
+- **Numero de sesiones/partidas:** _2_
+- **Contra cuantas personas diferentes:** __1__
 
 ### Tipo de IA:
 
