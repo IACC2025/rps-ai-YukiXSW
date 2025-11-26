@@ -1,0 +1,476 @@
+Ronda,Jugador 1,Jugador 2,Resultado
+1,piedra,piedra,Empate
+1,piedra,tijera,Jugador 1 gana
+2,piedra,piedra,Empate
+3,papel,papel,Empate
+1,piedra,tijera,Jugador 1 gana
+1,piedra,tijera,Jugador 1 gana
+2,piedra,tijera,Jugador 1 gana
+3,papel,tijera,Jugador 2 gana
+4,piedra,papel,Jugador 2 gana
+5,tijera,piedra,Jugador 2 gana
+1,papel,piedra,Jugador 1 gana
+2,tijera,papel,Jugador 1 gana
+3,piedra,tijera,Jugador 1 gana
+4,piedra,papel,Jugador 2 gana
+5,tijera,tijera,Empate
+6,papel,piedra,Jugador 1 gana
+7,piedra,papel,Jugador 2 gana
+8,piedra,piedra,Empate
+9,papel,tijera,Jugador 2 gana
+10,papel,piedra,Jugador 1 gana
+11,tijera,tijera,Empate
+12,tijera,piedra,Jugador 2 gana
+13,piedra,papel,Jugador 2 gana
+14,papel,tijera,Jugador 2 gana
+15,piedra,piedra,Empate
+1,papel,papel,Empate
+2,tijera,tijera,Empate
+3,piedra,piedra,Empate
+4,piedra,papel,Jugador 2 gana
+5,piedra,papel,Jugador 2 gana
+6,papel,tijera,Jugador 2 gana
+7,papel,tijera,Jugador 2 gana
+8,piedra,piedra,Empate
+9,tijera,papel,Jugador 1 gana
+10,papel,tijera,Jugador 2 gana
+11,tijera,papel,Jugador 1 gana
+12,piedra,papel,Jugador 2 gana
+13,tijera,tijera,Empate
+14,papel,piedra,Jugador 1 gana
+15,tijera,tijera,Empate
+16,papel,papel,Empate
+17,piedra,tijera,Jugador 1 gana
+18,tijera,piedra,Jugador 2 gana
+19,papel,piedra,Jugador 1 gana
+20,papel,papel,Empate
+21,tijera,papel,Jugador 1 gana
+22,tijera,tijera,Empate
+23,piedra,tijera,Jugador 1 gana
+24,tijera,piedra,Jugador 2 gana
+25,papel,papel,Empate
+26,piedra,papel,Jugador 2 gana
+27,tijera,piedra,Jugador 2 gana
+28,papel,tijera,Jugador 2 gana
+29,piedra,papel,Jugador 2 gana
+30,piedra,papel,Jugador 2 gana
+31,piedra,piedra,Empate
+32,tijera,papel,Jugador 1 gana
+33,tijera,tijera,Empate
+34,piedra,papel,Jugador 2 gana
+35,papel,papel,Empate
+36,tijera,tijera,Empate
+37,papel,piedra,Jugador 1 gana
+38,piedra,tijera,Jugador 1 gana
+39,papel,piedra,Jugador 1 gana
+40,tijera,tijera,Empate
+41,papel,tijera,Jugador 2 gana
+42,piedra,papel,Jugador 2 gana
+43,papel,papel,Empate
+44,piedra,tijera,Jugador 1 gana
+45,piedra,papel,Jugador 2 gana
+46,papel,tijera,Jugador 2 gana
+47,papel,piedra,Jugador 1 gana
+48,tijera,papel,Jugador 1 gana
+49,piedra,tijera,Jugador 1 gana
+50,tijera,papel,Jugador 1 gana
+51,piedra,tijera,Jugador 1 gana
+52,piedra,tijera,Jugador 1 gana
+53,papel,piedra,Jugador 1 gana
+54,piedra,tijera,Jugador 1 gana
+55,piedra,papel,Jugador 2 gana
+56,tijera,papel,Jugador 1 gana
+57,papel,piedra,Jugador 1 gana
+58,piedra,papel,Jugador 2 gana
+59,piedra,papel,Jugador 2 gana
+60,tijera,papel,Jugador 1 gana
+61,piedra,piedra,Empate
+62,piedra,tijera,Jugador 1 gana
+63,papel,papel,Empate
+64,tijera,papel,Jugador 1 gana
+65,piedra,papel,Jugador 2 gana
+66,tijera,piedra,Jugador 2 gana
+67,piedra,piedra,Empate
+68,tijera,tijera,Empate
+69,tijera,piedra,Jugador 2 gana
+70,papel,piedra,Jugador 1 gana
+71,papel,tijera,Jugador 2 gana
+72,piedra,papel,Jugador 2 gana
+73,tijera,piedra,Jugador 2 gana
+74,papel,tijera,Jugador 2 gana
+75,piedra,tijera,Jugador 1 gana
+76,tijera,piedra,Jugador 2 gana
+77,piedra,papel,Jugador 2 gana
+78,tijera,papel,Jugador 1 gana
+79,piedra,tijera,Jugador 1 gana
+80,piedra,papel,Jugador 2 gana
+81,tijera,papel,Jugador 1 gana
+82,tijera,papel,Jugador 1 gana
+83,piedra,tijera,Jugador 1 gana
+84,piedra,piedra,Empate
+85,papel,piedra,Jugador 1 gana
+86,tijera,papel,Jugador 1 gana
+87,piedra,papel,Jugador 2 gana
+88,papel,tijera,Jugador 2 gana
+89,tijera,tijera,Empate
+90,piedra,piedra,Empate
+91,piedra,tijera,Jugador 1 gana
+92,papel,papel,Empate
+93,tijera,papel,Jugador 1 gana
+94,piedra,tijera,Jugador 1 gana
+95,papel,papel,Empate
+96,tijera,tijera,Empate
+97,tijera,piedra,Jugador 2 gana
+98,piedra,papel,Jugador 2 gana
+99,tijera,papel,Jugador 1 gana
+100,piedra,piedra,Empate
+101,papel,tijera,Jugador 2 gana
+102,papel,papel,Empate
+103,papel,tijera,Jugador 2 gana
+104,papel,piedra,Jugador 1 gana
+105,tijera,tijera,Empate
+106,tijera,papel,Jugador 1 gana
+107,piedra,piedra,Empate
+108,papel,tijera,Jugador 2 gana
+109,tijera,tijera,Empate
+110,tijera,papel,Jugador 1 gana
+111,piedra,tijera,Jugador 1 gana
+112,papel,piedra,Jugador 1 gana
+113,tijera,tijera,Empate
+114,tijera,tijera,Empate
+115,tijera,tijera,Empate
+116,tijera,tijera,Empate
+117,piedra,papel,Jugador 2 gana
+118,tijera,papel,Jugador 1 gana
+119,tijera,papel,Jugador 1 gana
+120,tijera,piedra,Jugador 2 gana
+121,papel,piedra,Jugador 1 gana
+122,tijera,papel,Jugador 1 gana
+123,piedra,tijera,Jugador 1 gana
+124,tijera,tijera,Empate
+125,piedra,papel,Jugador 2 gana
+126,tijera,piedra,Jugador 2 gana
+127,piedra,tijera,Jugador 1 gana
+128,papel,papel,Empate
+129,tijera,papel,Jugador 1 gana
+130,piedra,piedra,Empate
+131,papel,tijera,Jugador 2 gana
+132,tijera,tijera,Empate
+133,piedra,tijera,Jugador 1 gana
+134,papel,papel,Empate
+135,tijera,tijera,Empate
+136,piedra,papel,Jugador 2 gana
+137,tijera,tijera,Empate
+138,piedra,papel,Jugador 2 gana
+139,tijera,piedra,Jugador 2 gana
+140,piedra,papel,Jugador 2 gana
+141,tijera,tijera,Empate
+142,piedra,papel,Jugador 2 gana
+143,tijera,tijera,Empate
+144,tijera,papel,Jugador 1 gana
+145,piedra,papel,Jugador 2 gana
+146,papel,papel,Empate
+147,tijera,piedra,Jugador 2 gana
+148,piedra,papel,Jugador 2 gana
+149,tijera,papel,Jugador 1 gana
+150,piedra,piedra,Empate
+151,papel,papel,Empate
+152,tijera,tijera,Empate
+153,piedra,papel,Jugador 2 gana
+154,piedra,piedra,Empate
+155,piedra,papel,Jugador 2 gana
+156,tijera,piedra,Jugador 2 gana
+157,papel,tijera,Jugador 2 gana
+158,tijera,papel,Jugador 1 gana
+159,papel,piedra,Jugador 1 gana
+160,piedra,tijera,Jugador 1 gana
+161,tijera,papel,Jugador 1 gana
+162,papel,papel,Empate
+163,piedra,piedra,Empate
+164,tijera,tijera,Empate
+165,papel,tijera,Jugador 2 gana
+166,piedra,tijera,Jugador 1 gana
+167,papel,papel,Empate
+168,tijera,piedra,Jugador 2 gana
+169,piedra,papel,Jugador 2 gana
+170,tijera,tijera,Empate
+171,tijera,piedra,Jugador 2 gana
+172,tijera,tijera,Empate
+173,piedra,papel,Jugador 2 gana
+174,piedra,piedra,Empate
+175,piedra,tijera,Jugador 1 gana
+176,piedra,papel,Jugador 2 gana
+177,papel,tijera,Jugador 2 gana
+178,tijera,piedra,Jugador 2 gana
+179,piedra,papel,Jugador 2 gana
+180,papel,piedra,Jugador 1 gana
+181,tijera,piedra,Jugador 2 gana
+182,papel,tijera,Jugador 2 gana
+183,tijera,papel,Jugador 1 gana
+184,piedra,piedra,Empate
+185,piedra,papel,Jugador 2 gana
+186,tijera,piedra,Jugador 2 gana
+187,papel,papel,Empate
+188,piedra,tijera,Jugador 1 gana
+189,tijera,tijera,Empate
+190,piedra,tijera,Jugador 1 gana
+191,papel,piedra,Jugador 1 gana
+192,piedra,papel,Jugador 2 gana
+193,tijera,tijera,Empate
+194,tijera,papel,Jugador 1 gana
+195,piedra,piedra,Empate
+196,papel,tijera,Jugador 2 gana
+197,piedra,papel,Jugador 2 gana
+198,tijera,piedra,Jugador 2 gana
+199,piedra,tijera,Jugador 1 gana
+200,piedra,papel,Jugador 2 gana
+201,tijera,piedra,Jugador 2 gana
+202,piedra,tijera,Jugador 1 gana
+203,piedra,papel,Jugador 2 gana
+204,papel,papel,Empate
+205,piedra,papel,Jugador 2 gana
+206,tijera,papel,Jugador 1 gana
+207,piedra,tijera,Jugador 1 gana
+208,papel,piedra,Jugador 1 gana
+209,tijera,tijera,Empate
+210,tijera,piedra,Jugador 2 gana
+211,piedra,papel,Jugador 2 gana
+212,tijera,piedra,Jugador 2 gana
+213,tijera,tijera,Empate
+214,piedra,papel,Jugador 2 gana
+215,papel,piedra,Jugador 1 gana
+216,piedra,papel,Jugador 2 gana
+217,tijera,tijera,Empate
+218,papel,papel,Empate
+219,tijera,papel,Jugador 1 gana
+220,piedra,piedra,Empate
+221,tijera,tijera,Empate
+222,piedra,papel,Jugador 2 gana
+223,tijera,papel,Jugador 1 gana
+224,tijera,papel,Jugador 1 gana
+225,piedra,tijera,Jugador 1 gana
+226,piedra,papel,Jugador 2 gana
+227,tijera,papel,Jugador 1 gana
+228,papel,piedra,Jugador 1 gana
+229,papel,tijera,Jugador 2 gana
+230,piedra,papel,Jugador 2 gana
+231,piedra,piedra,Empate
+232,piedra,tijera,Jugador 1 gana
+233,tijera,tijera,Empate
+234,papel,papel,Empate
+235,piedra,piedra,Empate
+236,papel,papel,Empate
+237,papel,piedra,Jugador 1 gana
+238,tijera,papel,Jugador 1 gana
+239,tijera,tijera,Empate
+240,piedra,piedra,Empate
+241,papel,piedra,Jugador 1 gana
+242,tijera,tijera,Empate
+243,piedra,papel,Jugador 2 gana
+244,piedra,papel,Jugador 2 gana
+245,piedra,papel,Jugador 2 gana
+246,tijera,piedra,Jugador 2 gana
+247,piedra,papel,Jugador 2 gana
+248,tijera,papel,Jugador 1 gana
+249,papel,piedra,Jugador 1 gana
+250,tijera,papel,Jugador 1 gana
+251,piedra,tijera,Jugador 1 gana
+252,papel,papel,Empate
+253,piedra,papel,Jugador 2 gana
+254,papel,tijera,Jugador 2 gana
+255,piedra,piedra,Empate
+256,piedra,papel,Jugador 2 gana
+257,piedra,tijera,Jugador 1 gana
+258,piedra,tijera,Jugador 1 gana
+259,papel,tijera,Jugador 2 gana
+260,tijera,tijera,Empate
+261,piedra,tijera,Jugador 1 gana
+262,piedra,papel,Jugador 2 gana
+263,piedra,papel,Jugador 2 gana
+264,piedra,tijera,Jugador 1 gana
+265,papel,piedra,Jugador 1 gana
+266,tijera,papel,Jugador 1 gana
+267,piedra,papel,Jugador 2 gana
+268,piedra,papel,Jugador 2 gana
+269,piedra,papel,Jugador 2 gana
+270,piedra,tijera,Jugador 1 gana
+271,piedra,tijera,Jugador 1 gana
+272,papel,papel,Empate
+273,papel,tijera,Jugador 2 gana
+274,piedra,piedra,Empate
+275,papel,papel,Empate
+276,tijera,piedra,Jugador 2 gana
+277,piedra,tijera,Jugador 1 gana
+278,papel,papel,Empate
+279,tijera,tijera,Empate
+280,tijera,piedra,Jugador 2 gana
+281,piedra,papel,Jugador 2 gana
+282,papel,tijera,Jugador 2 gana
+283,tijera,piedra,Jugador 2 gana
+284,piedra,tijera,Jugador 1 gana
+285,tijera,papel,Jugador 1 gana
+286,papel,piedra,Jugador 1 gana
+287,tijera,papel,Jugador 1 gana
+288,piedra,tijera,Jugador 1 gana
+289,tijera,tijera,Empate
+290,papel,papel,Empate
+291,tijera,tijera,Empate
+292,tijera,piedra,Jugador 2 gana
+293,piedra,papel,Jugador 2 gana
+294,tijera,piedra,Jugador 2 gana
+295,papel,tijera,Jugador 2 gana
+296,papel,papel,Empate
+297,piedra,tijera,Jugador 1 gana
+298,piedra,piedra,Empate
+299,papel,tijera,Jugador 2 gana
+300,tijera,papel,Jugador 1 gana
+301,piedra,piedra,Empate
+302,papel,papel,Empate
+303,tijera,piedra,Jugador 2 gana
+304,piedra,papel,Jugador 2 gana
+305,piedra,piedra,Empate
+306,papel,tijera,Jugador 2 gana
+307,piedra,papel,Jugador 2 gana
+308,tijera,piedra,Jugador 2 gana
+309,piedra,tijera,Jugador 1 gana
+310,papel,papel,Empate
+311,piedra,papel,Jugador 2 gana
+312,piedra,piedra,Empate
+313,papel,papel,Empate
+314,papel,tijera,Jugador 2 gana
+315,piedra,papel,Jugador 2 gana
+316,piedra,papel,Jugador 2 gana
+317,piedra,tijera,Jugador 1 gana
+318,piedra,piedra,Empate
+319,piedra,papel,Jugador 2 gana
+320,piedra,piedra,Empate
+321,piedra,tijera,Jugador 1 gana
+322,tijera,papel,Jugador 1 gana
+323,tijera,piedra,Jugador 2 gana
+324,papel,papel,Empate
+325,piedra,tijera,Jugador 1 gana
+326,piedra,piedra,Empate
+327,tijera,papel,Jugador 1 gana
+328,papel,tijera,Jugador 2 gana
+329,papel,papel,Empate
+330,piedra,papel,Jugador 2 gana
+331,piedra,piedra,Empate
+332,papel,tijera,Jugador 2 gana
+333,tijera,papel,Jugador 1 gana
+334,piedra,piedra,Empate
+335,papel,tijera,Jugador 2 gana
+336,piedra,papel,Jugador 2 gana
+337,tijera,papel,Jugador 1 gana
+338,tijera,papel,Jugador 1 gana
+339,piedra,tijera,Jugador 1 gana
+340,piedra,papel,Jugador 2 gana
+341,tijera,piedra,Jugador 2 gana
+342,tijera,tijera,Empate
+343,papel,tijera,Jugador 2 gana
+344,papel,tijera,Jugador 2 gana
+345,papel,tijera,Jugador 2 gana
+346,piedra,papel,Jugador 2 gana
+347,tijera,papel,Jugador 1 gana
+348,tijera,tijera,Empate
+349,piedra,piedra,Empate
+350,papel,papel,Empate
+351,piedra,tijera,Jugador 1 gana
+352,papel,papel,Empate
+353,papel,piedra,Jugador 1 gana
+354,piedra,papel,Jugador 2 gana
+355,piedra,piedra,Empate
+356,papel,tijera,Jugador 2 gana
+357,tijera,papel,Jugador 1 gana
+358,piedra,tijera,Jugador 1 gana
+359,papel,piedra,Jugador 1 gana
+360,piedra,piedra,Empate
+361,tijera,papel,Jugador 1 gana
+362,piedra,papel,Jugador 2 gana
+363,papel,piedra,Jugador 1 gana
+364,tijera,tijera,Empate
+365,papel,papel,Empate
+366,tijera,piedra,Jugador 2 gana
+367,piedra,papel,Jugador 2 gana
+368,papel,papel,Empate
+369,tijera,tijera,Empate
+370,piedra,piedra,Empate
+371,papel,tijera,Jugador 2 gana
+372,tijera,papel,Jugador 1 gana
+373,piedra,tijera,Jugador 1 gana
+374,papel,piedra,Jugador 1 gana
+375,tijera,papel,Jugador 1 gana
+376,piedra,tijera,Jugador 1 gana
+377,tijera,piedra,Jugador 2 gana
+378,papel,papel,Empate
+379,tijera,tijera,Empate
+380,papel,papel,Empate
+381,piedra,papel,Jugador 2 gana
+382,papel,piedra,Jugador 1 gana
+383,tijera,tijera,Empate
+384,papel,papel,Empate
+385,papel,papel,Empate
+386,tijera,tijera,Empate
+387,piedra,papel,Jugador 2 gana
+388,tijera,tijera,Empate
+389,papel,papel,Empate
+390,papel,piedra,Jugador 1 gana
+391,piedra,papel,Jugador 2 gana
+392,tijera,papel,Jugador 1 gana
+393,papel,piedra,Jugador 1 gana
+394,tijera,piedra,Jugador 2 gana
+395,papel,papel,Empate
+396,papel,tijera,Jugador 2 gana
+397,papel,papel,Empate
+398,tijera,tijera,Empate
+399,piedra,piedra,Empate
+400,papel,papel,Empate
+401,piedra,piedra,Empate
+402,tijera,tijera,Empate
+403,piedra,piedra,Empate
+404,papel,papel,Empate
+405,tijera,tijera,Empate
+406,piedra,papel,Jugador 2 gana
+407,papel,piedra,Jugador 1 gana
+408,tijera,papel,Jugador 1 gana
+409,tijera,papel,Jugador 1 gana
+410,papel,piedra,Jugador 1 gana
+411,tijera,tijera,Empate
+412,piedra,papel,Jugador 2 gana
+413,papel,papel,Empate
+414,tijera,piedra,Jugador 2 gana
+415,piedra,tijera,Jugador 1 gana
+416,papel,papel,Empate
+417,tijera,piedra,Jugador 2 gana
+418,papel,papel,Empate
+419,piedra,tijera,Jugador 1 gana
+420,papel,piedra,Jugador 1 gana
+421,piedra,tijera,Jugador 1 gana
+422,papel,papel,Empate
+423,tijera,papel,Jugador 1 gana
+424,tijera,piedra,Jugador 2 gana
+425,tijera,tijera,Empate
+426,tijera,papel,Jugador 1 gana
+427,papel,papel,Empate
+428,piedra,papel,Jugador 2 gana
+429,piedra,tijera,Jugador 1 gana
+430,piedra,piedra,Empate
+431,piedra,papel,Jugador 2 gana
+432,tijera,papel,Jugador 1 gana
+433,tijera,papel,Jugador 1 gana
+434,papel,papel,Empate
+435,papel,papel,Empate
+436,papel,piedra,Jugador 1 gana
+437,piedra,tijera,Jugador 1 gana
+438,piedra,papel,Jugador 2 gana
+439,tijera,papel,Jugador 1 gana
+440,papel,tijera,Jugador 2 gana
+441,piedra,tijera,Jugador 1 gana
+442,papel,papel,Empate
+443,tijera,piedra,Jugador 2 gana
+444,papel,papel,Empate
+445,tijera,papel,Jugador 1 gana
+446,papel,papel,Empate
+447,piedra,tijera,Jugador 1 gana
+448,papel,piedra,Jugador 1 gana
+449,tijera,tijera,Empate
+450,papel,papel,Empate
