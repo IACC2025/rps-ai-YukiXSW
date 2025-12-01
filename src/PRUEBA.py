@@ -399,7 +399,7 @@ class JugadorIA:
         # Columnas de features usadas en entrenamiento
         self.feature_cols = FEATURE_COLS
         # Columnas de jugadas numericas (para facilitar el feature engineering en vivo)
-        self.cols_historial_num = ['jugada_j1_num', 'jugada_j2_num', 'j1_gana']
+        self.cols_historial_num = ['jugada_j1_num', 'jugada_j2_num', 'j1sgana']
 
         # TODO: Carga el modelo si existe
         try:
@@ -425,11 +425,7 @@ class JugadorIA:
         # Registramos las jugadas convertidas a numeros y el resultado (j1_gana)
         ronda_num = [JUGADA_A_NUM[jugada_j1], JUGADA_A_NUM[jugada_j2], j1_gana]
 
-        self.historial.append({
-            "jugada_j1_num": JUGADA_A_NUM[jugada_j1],
-            "jugada_j2_num": JUGADA_A_NUM[jugada_j2],
-            "j1_gana": j1_gana
-        })
+        self.historial.append((jugada_j1, jugada_j2))
 
     def obtener_features_actuales(self) -> np.ndarray:
         """
