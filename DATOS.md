@@ -1,6 +1,6 @@
 # Documentacion de Recogida de Datos
 
-**Alumno:** _______Lili_______
+**Alumno:** ___Lili Wu, Javier Pasamar, Diana Palacios___
 
 ## Formato del CSV
 
@@ -39,8 +39,7 @@ Marca con [x] el metodo usado y describe brevemente:
 ### Descripcion del proceso:
 
 ```
-(Explica aqui como recogiste los datos. Si usaste un programa,
-describe brevemente como funciona. Si fue manual, explica el proceso.)
+
 He creado un programa en la que te pregunta cuantas rondas quieres, y por cada ronda que pase, se guarda ronda por ronda 
 la jugada en el archivo jugadas.csv
 
