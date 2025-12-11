@@ -23,7 +23,6 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
 
 
-
 # Configuracion de rutas
 RUTA_PROYECTO = Path(__file__).parent.parent
 RUTA_DATOS = RUTA_PROYECTO / "data" / "jugadas.csv"
@@ -105,16 +104,14 @@ def crear_features(df: pd.DataFrame) -> pd.DataFrame:
 
     df = df.copy()
 
-    df['resultado_j2'] = df['jugada_j2_num'] - df['jugada_j1_num']
-    df['j2_gano'] = ((df['resultado_j2'] == 1) | (df['resultado_j2'] == -2)).astype(int).shift(1)
-    df['j2_perdio'] = ((df['resultado_j2'] == -1) | (df['resultado_j2'] == 2)).astype(int).shift(1)
-    df['j2_empato'] = (df['resultado_j2'] == 0).astype(int).shift(1)
-
-
     # 1. Lag Features (Últimas N jugadas del oponente J2)
     # Ejemplo: ¿Qué jugó el oponente en la ronda anterior?
     for i in range(1, N_LAG + 1):
         df[f'j2_lag_{i}'] = df['jugada_j2_num'].shift(i)
+
+    # 2. Lag Features (Últimas N jugadas de mi jugador J1)
+    # Ejemplo: ¿Qué jugué yo en la ronda anterior? (Patrones de respuesta del oponente)
+    for i in range(1, N_LAG + 1):
         df[f'j1_lag_{i}'] = df['jugada_j1_num'].shift(i)
 
     # 3. Frecuencia de la última jugada de J2 (Tendencia a repetir una opción)
@@ -124,14 +121,6 @@ def crear_features(df: pd.DataFrame) -> pd.DataFrame:
                 df['jugada_j2_num'] == jugada_num
         ).rolling(window=WINDOW_SIZE, min_periods=1).mean().shift(1)
 
-    df['j2_repite'] = (df['j2_lag_1'] == df['j2_lag_2']).astype(int)
-    df['j2_repite_post_victoria'] = df['j2_gano'] * df['j2_repite']
-    df['j2_repite_post_derrota'] = df['j2_perdio'] * df['j2_repite']
-
-    for jugada_num in JUGADA_A_NUM.values():
-        df[f'freq_j2_acum_{jugada_num}'] = (
-            df['jugada_j2_num'] == jugada_num
-        ).cumsum().shift(1) / (df.index.to_series() + 1).shift(1).replace(0, 1)
     # Eliminar las filas que ahora tienen NaN debido al shift (las primeras N rondas)
     df = df.dropna()
 
